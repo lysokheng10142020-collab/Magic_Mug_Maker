@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/lysokheng10142020-collab/Magic_Mug_Maker/releases/download/v1.0.0/Magic_Mug_Maker.exe",
+  "changelog": "កំណែប្រែដំបូង v1.0.0:\n- កាត់តវីដេអូក្នុងពែងស្វ័យប្រវត្តិ (Batch Queue)\n- Smart Auto-Crop, Vertical Shift និង Zoom\n- បង្វិលវីដេអូ (Rotate) គ្រប់មុំ និងដឺក្រេ\n- ដាក់ Effects មួយរំពេច (Dual Effects Planar-RGB)\n- UI តូចល្មមស្អាត មិនពេញអេក្រង់"
+}
